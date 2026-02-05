@@ -255,3 +255,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/ddp_udc_lib_ec3.so:$(TARGET_COPY_OUT_VENDOR)/lib/ddp_udc_lib_ec3.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/dp_dap_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/dp_dap_lib \
     vendor/xiaomi/mocha/proprietary/vendor/lib/soundfx/libnvvisualizer.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libnvvisualizer.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libprotobuf-cpp-lite-v33.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-v33.so \
+    vendor/xiaomi/mocha/proprietary/lib/libstagefright_softomx_plugin.so:system/lib/libstagefright_softomx_plugin.so \
+
